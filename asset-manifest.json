@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portedPersonalPage/static/css/main.061eeaa2.chunk.css",
+    "main.js": "/portedPersonalPage/static/js/main.4fc2730a.chunk.js",
+    "main.js.map": "/portedPersonalPage/static/js/main.4fc2730a.chunk.js.map",
+    "runtime-main.js": "/portedPersonalPage/static/js/runtime-main.c56608e6.js",
+    "runtime-main.js.map": "/portedPersonalPage/static/js/runtime-main.c56608e6.js.map",
+    "static/js/2.9240a0cc.chunk.js": "/portedPersonalPage/static/js/2.9240a0cc.chunk.js",
+    "static/js/2.9240a0cc.chunk.js.map": "/portedPersonalPage/static/js/2.9240a0cc.chunk.js.map",
+    "index.html": "/portedPersonalPage/index.html",
+    "precache-manifest.1d5948f31a77a998d1f0b81e44807361.js": "/portedPersonalPage/precache-manifest.1d5948f31a77a998d1f0b81e44807361.js",
+    "service-worker.js": "/portedPersonalPage/service-worker.js",
+    "static/css/main.061eeaa2.chunk.css.map": "/portedPersonalPage/static/css/main.061eeaa2.chunk.css.map",
+    "static/js/2.9240a0cc.chunk.js.LICENSE.txt": "/portedPersonalPage/static/js/2.9240a0cc.chunk.js.LICENSE.txt",
+    "static/media/DSC5345_250X395.jpg": "/portedPersonalPage/static/media/DSC5345_250X395.7f56472b.jpg",
+    "static/media/App.css": "/portedPersonalPage/static/media/DSC5381_1584x396.09b39c43.jpg",
+    "static/media/DigitalTransformation-Web.png": "/portedPersonalPage/static/media/DigitalTransformation-Web.5f64fb43.png",
+    "static/media/ExtractTransformLoad.png": "/portedPersonalPage/static/media/ExtractTransformLoad.8db00093.png",
+    "static/media/IT Support.png": "/portedPersonalPage/static/media/IT Support.20364486.png",
+    "static/media/UW-Stout_20190622_152336.jpg": "/portedPersonalPage/static/media/UW-Stout_20190622_152336.2b5979a7.jpg",
+    "static/media/University-of-StThomas_DSC5602.JPG": "/portedPersonalPage/static/media/University-of-StThomas_DSC5602.cb04f5be.JPG",
+    "static/media/WI-statute-TOC.png": "/portedPersonalPage/static/media/WI-statute-TOC.7fb27183.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c56608e6.js",
+    "static/js/2.9240a0cc.chunk.js",
+    "static/css/main.061eeaa2.chunk.css",
+    "static/js/main.4fc2730a.chunk.js"
+  ]
+}
